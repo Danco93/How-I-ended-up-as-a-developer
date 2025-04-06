@@ -131,7 +131,17 @@ h3 {
   font-size: 1.5rem;
   color: #9fa8a7; /* Light gray-green for smaller headings */
 }
-
+#hero {
+  background-color: #e8f0f3; /* Soft pastel blue-gray */
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+#subhero {
+  color: #3b5d66; /* Muted teal for subheading */
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
 #me {
   display: block;
   margin: 40px auto;
